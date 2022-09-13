@@ -760,30 +760,35 @@ justify-content: center;
   height:38px;
   
   padding:0px;
+  border-radius:4px;
   
 }
 .buttongalery-webisite{
   width:125px ;
   height:38px;
  padding:0px;
+ border-radius:4px;
  
 }
 .buttongalery-design{
   width:104px ;
   height:38px;
   padding:0px;
+  border-radius:4px;
   
 }
 .buttongalery-application{
   width:112px ;
   height:38px;
   padding:0px;
+  border-radius:4px;
   
 }
 .buttongalery-marketing{
   width:130px ;
   height:38px;
   padding:0px;
+  border-radius:4px;
   
 }
 .block-galery{
